@@ -28,5 +28,3 @@ This repository helps me:
 **MD Tanbin Ali**
 📍 Chattogram, Bangladesh
 💻 *Student at East Delta University*
-
-```
